@@ -1,4 +1,4 @@
-# Unit 12—Tales from the Crypto
+# Unit 12 Tales from the Crypto
 
 ![Stock Sentiment](Images/sentimental.jpeg)
 
@@ -15,52 +15,46 @@ Completed tasks:
 
 ## Files
 
-[Starter Notebook](My_Code/crypto_sentiment.ipynb)
+[Crypto Sentiment Notebook](My_Code/crypto_sentiment.ipynb)
 
 ---
 
 ### 1 - Sentiment Analysis
 
-![btc_title text comparison](Images/btc_comparison.PNG)
+![ETH_title text comparison](Images/eth_comparison.PNG)
 
 ### Questions:
 
 *Q: Which coin had the highest mean positive score?*
 
-A: Bitcoin had the highest title_pos mean of 0.064.
+A: Bitcoin had the highest title_pos mean of 0.081.
 
 *Q: Which coin had the highest compound score?*
 
-A: Ethereum has the highest title_compund score of 0.46.
+A: Ethereum has the highest title_compund score of 0.459.
 
 *Q. Which coin had the highest positive score?*
 
-A: Bitcoin has the highest title_pos score of 0.30.
+A: Ethereum has the highest title_pos score of 0.250.
 
 Note: I used title for all questions as it has more context to the brief.
 
-![eth sentiment scores](Images/eth_sentiment_scores.PNG)
 
 ### 2 - Natural Language Processing
 
-#### N-grams
-
-![btc N-grams](Images/btc_n-grams.PNG)
-
-![eth N-grams](Images/eth_n-grams.PNG)
+#### ETHEREUM N-grams Counter 
+![BTC N-grams](Images/btc_n-grams.PNG)
 
 #### Word Clouds
 
-![btc-word-cloud.png](Images/btc_WC.png)
+![btc-word-cloud.png](Images/btc_WC.PNG)
 
-![eth-word-cloud.png](Images/eth_WC.png)
+![eth-word-cloud.png](Images/eth_WC.PNG)
 
 
 ### 3 - Named Entity Recognition
 
-![btc-ner.png](Images/btc_NER.png)
-
-![eth-ner.png](Images/eth_NER.png)
+![btc-ner.png](Images/btc_NER.PNG)
 
 - - - 
 
