@@ -15,7 +15,7 @@ Completed tasks:
 
 ## Files
 
-[Starter Notebook](Starter_Code/crypto_sentiment.ipynb)
+[Cryoto Sentiment Notebook](My_Code/crypto_sentiment.ipynb)
 
 ---
 
@@ -51,16 +51,16 @@ Note: I used title for all questions as it has more context to the brief.
 
 #### Word Clouds
 
-![btc-word-cloud.png](Images/btc_WC.png)
+![btc-word-cloud.png](Images/btc_WC.PNG)
 
-![eth-word-cloud.png](Images/eth_WC.png)
+![eth-word-cloud.png](Images/eth_WC.PNG)
 
 
 ### 3 - Named Entity Recognition
 
-![btc-ner.png](Images/btc_NER.png)
+![btc-ner.png](Images/btc_NER.PNG)
 
-![eth-ner.png](Images/eth_NER.png)
+![eth-ner.png](Images/eth_NER.PNG)
 
 - - - 
 

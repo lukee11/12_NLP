@@ -15,7 +15,7 @@ Completed tasks:
 
 ## Files
 
-[Starter Notebook](Starter_Code/crypto_sentiment.ipynb)
+[Starter Notebook](My_Code/crypto_sentiment.ipynb)
 
 ---
 
